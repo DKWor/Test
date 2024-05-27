@@ -30,7 +30,7 @@ plugin= {"pretty",
      
 public class TestNGRunner extends AbstractTestNGCucumberTests {
 
-	// @AfterClass
+	@AfterClass
 	public static void SendingMail() throws AddressException, IOException, MessagingException {
 
 		Runtime r = Runtime.getRuntime();

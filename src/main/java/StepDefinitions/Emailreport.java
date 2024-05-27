@@ -27,7 +27,7 @@ public class Emailreport extends BaseClass{
 	            email.setAuthenticator(new DefaultAuthenticator("digambar.karande@vernost.in", "hmqk sxuh gvtn kdwq"));
 	            email.setStartTLSEnabled(true);
 	            email.setFrom("digambar.karande@vernost.in");
-	            email.setSubject(" Indigo: Automation Testing Report "+datesystem+"( Hotel) ");
+	            email.setSubject("KAT-GST_Automation Report "+datesystem+" ");
 	            email.setMsg("This is a test mail ... :-)");
 	            email.addTo("digambar.karande@vernost.in");
 	            email.addTo("kuldeep.ruletiya@vernost.in");
