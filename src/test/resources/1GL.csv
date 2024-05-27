@@ -1,0 +1,6 @@
+﻿GL Code,Invoice Number,Document Type,Invoice Date,Quanity,Taxable Amount,Customer Name,Customer Code,Tax Code,Location Code,Document Number,Cancellation Invoice
+JF33,V101,TS,05.09.2023,2,-100,VTest01,VTest01,B43,B67,V101,
+Ds11,V102,TS,05.09.2023,2,-200,VTest02,VTest02,B43,B67,V102,
+HG33,V103,TS,05.09.2023,2,-300,VTest03,VTest03,B43,B67,V103,
+M4322,V104,TS,05.09.2023,2,-400,VTest03,VTest03,B43,B67,V104,
+R403,V105,TS,05.09.2023,2,-500,VTest04,VTest04,B43,B67,V105,

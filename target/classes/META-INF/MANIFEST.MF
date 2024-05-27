@@ -1,0 +1,90 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: lib/selenium-java-4.4.0.jar lib/selenium-api-4.4.0.jar lib/s
+ elenium-chrome-driver-4.4.0.jar lib/guava-31.1-jre.jar lib/failureacces
+ s-1.0.1.jar lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-gu
+ ava.jar lib/jsr305-3.0.2.jar lib/checker-qual-3.12.0.jar lib/error_pron
+ e_annotations-2.11.0.jar lib/j2objc-annotations-1.3.jar lib/selenium-ch
+ romium-driver-4.4.0.jar lib/selenium-json-4.4.0.jar lib/selenium-devtoo
+ ls-v102-4.4.0.jar lib/selenium-devtools-v103-4.4.0.jar lib/selenium-dev
+ tools-v104-4.4.0.jar lib/selenium-devtools-v85-4.4.0.jar lib/selenium-e
+ dge-driver-4.4.0.jar lib/selenium-firefox-driver-4.4.0.jar lib/selenium
+ -ie-driver-4.4.0.jar lib/selenium-opera-driver-4.4.0.jar lib/selenium-r
+ emote-driver-4.4.0.jar lib/jcommander-1.82.jar lib/netty-buffer-4.1.78.
+ Final.jar lib/netty-codec-http-4.1.78.Final.jar lib/netty-codec-4.1.78.
+ Final.jar lib/netty-handler-4.1.78.Final.jar lib/netty-common-4.1.78.Fi
+ nal.jar lib/netty-transport-classes-epoll-4.1.78.Final.jar lib/netty-tr
+ ansport-classes-kqueue-4.1.78.Final.jar lib/netty-transport-native-epol
+ l-4.1.78.Final.jar lib/netty-transport-native-kqueue-4.1.78.Final.jar l
+ ib/netty-transport-native-unix-common-4.1.78.Final.jar lib/netty-transp
+ ort-4.1.78.Final.jar lib/netty-resolver-4.1.78.Final.jar lib/openteleme
+ try-api-1.16.0.jar lib/opentelemetry-context-1.16.0.jar lib/opentelemet
+ ry-exporter-logging-1.16.0.jar lib/opentelemetry-sdk-metrics-1.16.0.jar
+  lib/opentelemetry-sdk-logs-1.16.0-alpha.jar lib/opentelemetry-sdk-comm
+ on-1.16.0.jar lib/opentelemetry-sdk-extension-autoconfigure-spi-1.16.0.
+ jar lib/opentelemetry-sdk-extension-autoconfigure-1.16.0-alpha.jar lib/
+ opentelemetry-sdk-trace-1.16.0.jar lib/opentelemetry-sdk-1.16.0.jar lib
+ /opentelemetry-semconv-1.16.0-alpha.jar lib/jtoml-2.0.0.jar lib/byte-bu
+ ddy-1.12.10.jar lib/commons-exec-1.3.jar lib/async-http-client-2.12.3.j
+ ar lib/async-http-client-netty-utils-2.12.3.jar lib/netty-codec-socks-4
+ .1.60.Final.jar lib/netty-handler-proxy-4.1.60.Final.jar lib/netty-tran
+ sport-native-epoll-4.1.60.Final-linux-x86_64.jar lib/netty-transport-na
+ tive-kqueue-4.1.60.Final-osx-x86_64.jar lib/netty-reactive-streams-2.0.
+ 4.jar lib/selenium-safari-driver-4.4.0.jar lib/selenium-support-4.4.0.j
+ ar lib/tess4j-5.11.0.jar lib/jna-5.14.0.jar lib/jai-imageio-core-1.4.0.
+ jar lib/pdfbox-3.0.1.jar lib/pdfbox-io-3.0.1.jar lib/fontbox-3.0.1.jar 
+ lib/commons-logging-1.2.jar lib/junit-jupiter-5.10.1.jar lib/junit-jupi
+ ter-api-5.10.1.jar lib/opentest4j-1.3.0.jar lib/junit-platform-commons-
+ 1.10.1.jar lib/junit-jupiter-params-5.10.1.jar lib/junit-jupiter-engine
+ -5.10.1.jar lib/junit-platform-engine-1.10.1.jar lib/pdfbox-tools-3.0.1
+ .jar lib/pdfbox-debugger-3.0.1.jar lib/picocli-4.7.5.jar lib/jbig2-imag
+ eio-3.0.4.jar lib/lept4j-1.19.1.jar lib/jboss-vfs-3.2.17.Final.jar lib/
+ jboss-logging-3.1.4.GA.jar lib/slf4j-api-2.0.12.jar lib/selenium-http-j
+ dk-client-4.5.0.jar lib/auto-service-annotations-1.0.1.jar lib/auto-ser
+ vice-1.0.1.jar lib/auto-common-1.2.jar lib/selenium-http-4.5.0.jar lib/
+ failsafe-3.2.4.jar lib/poi-5.2.3.jar lib/commons-codec-1.15.jar lib/com
+ mons-collections4-4.4.jar lib/commons-math3-3.6.1.jar lib/SparseBitSet-
+ 1.2.jar lib/log4j-api-2.18.0.jar lib/poi-ooxml-5.2.5.jar lib/poi-ooxml-
+ lite-5.2.5.jar lib/xmlbeans-5.2.0.jar lib/commons-compress-1.25.0.jar l
+ ib/curvesapi-1.08.jar lib/commons-io-2.15.1.jar lib/commons-lang3-3.14.
+ 0.jar lib/commons-net-3.6.jar lib/commons-email-1.6.0.jar lib/jakarta.m
+ ail-1.6.7.jar lib/jakarta.activation-1.2.1.jar lib/cucumber-java-7.14.0
+ .jar lib/apiguardian-api-1.1.2.jar lib/cucumber-testng-7.14.0.jar lib/t
+ estng-7.8.0.jar lib/jquery-3.6.1.jar lib/extentreports-cucumber7-adapte
+ r-1.14.0.jar lib/extent-pdf-report-2.12.0.jar lib/cucumber-pdf-report-2
+ .14.0.jar lib/xchart-3.8.0.jar lib/VectorGraphics2D-0.13.jar lib/graphi
+ cs2d-0.30.jar lib/animated-gif-lib-1.4.jar lib/snakeyaml-2.0.jar lib/ta
+ ble-layout-1.5.1.jar lib/rest-assured-cucumber-pdf-report-1.5.0.jar lib
+ /jsoup-1.15.3.jar lib/klov-reporter-5.1.0.jar lib/mongodb-driver-3.6.4.
+ jar lib/mongodb-driver-core-3.6.4.jar lib/bson-3.6.4.jar lib/htmlextent
+ reporter-1.1.0.jar lib/extent-excel-report-1.4.0.jar lib/extentreports-
+ 5.1.1.jar lib/rxjava-3.1.6.jar lib/reactive-streams-1.0.4.jar lib/freem
+ arker-2.3.32.jar lib/lombok-1.18.26.jar lib/gson-2.10.1.jar lib/cucumbe
+ r-core-7.14.0.jar lib/cucumber-gherkin-7.14.0.jar lib/cucumber-gherkin-
+ messages-7.14.0.jar lib/gherkin-26.2.0.jar lib/messages-22.0.0.jar lib/
+ tag-expressions-5.0.6.jar lib/cucumber-expressions-16.1.2.jar lib/datat
+ able-7.14.0.jar lib/cucumber-plugin-7.14.0.jar lib/docstring-7.14.0.jar
+  lib/html-formatter-20.4.0.jar lib/junit-xml-formatter-0.2.0.jar lib/ci
+ -environment-9.2.0.jar lib/cucumber-picocontainer-7.14.0.jar lib/picoco
+ ntainer-2.15.jar lib/cucumber-html-0.2.7.jar lib/webdrivermanager-5.6.2
+ .jar lib/docker-java-3.3.4.jar lib/docker-java-core-3.3.4.jar lib/docke
+ r-java-api-3.3.4.jar lib/jackson-annotations-2.10.3.jar lib/jackson-dat
+ abind-2.10.3.jar lib/jackson-core-2.10.3.jar lib/bcpkix-jdk18on-1.76.ja
+ r lib/bcprov-jdk18on-1.76.jar lib/bcutil-jdk18on-1.76.jar lib/jcl-over-
+ slf4j-1.7.30.jar lib/docker-java-transport-httpclient5-3.3.4.jar lib/do
+ cker-java-transport-3.3.4.jar lib/dec-0.1.2.jar lib/httpclient5-5.2.1.j
+ ar lib/httpcore5-5.2.jar lib/httpcore5-h2-5.2.jar lib/mail-1.4.7.jar li
+ b/activation-1.1.jar lib/javax.mail-1.6.2.jar lib/jira-client-0.5.jar l
+ ib/httpclient-4.2.5.jar lib/httpcore-4.2.4.jar lib/httpmime-4.2.5.jar l
+ ib/json-lib-2.4-jdk15.jar lib/commons-beanutils-1.8.0.jar lib/commons-c
+ ollections-3.2.1.jar lib/commons-lang-2.5.jar lib/ezmorph-1.0.6.jar lib
+ /joda-time-2.3.jar lib/junit-4.8.2.jar lib/mockito-all-1.9.0.jar lib/co
+ mmons-httpclient-3.1.jar lib/maven-compiler-plugin-3.13.0.jar lib/maven
+ -shared-utils-3.4.2.jar lib/maven-shared-incremental-1.1.jar lib/plexus
+ -java-1.2.0.jar lib/asm-9.6.jar lib/qdox-2.0.3.jar lib/plexus-compiler-
+ api-2.15.0.jar lib/plexus-compiler-manager-2.15.0.jar lib/javax.inject-
+ 1.jar lib/plexus-xml-3.0.0.jar lib/plexus-compiler-javac-2.15.0.jar lib
+ /plexus-utils-4.0.0.jar
+Main-Class: com.mypackage.MyClass
+Created-By: Maven Integration for Eclipse
+
